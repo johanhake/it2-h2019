@@ -1,5 +1,6 @@
 # it2-h2019
-I dette løsningsforslaget har jeg forsøkt å være konsekvent. Det bruker en god del dynamisk HTML gjennom JavaScript men jeg har gjort noen valg som gjør det enklere å kode løsninger (synes jeg :D )
+I dette løsningsforslaget har jeg forsøkt å være konsekvent. Det bruker en god del dynamisk HTML gjennom JavaScript men jeg har gjort noen valg som gjør det enklere å kode løsninger (synes jeg :D ) 
+Johan hake
 
 * Jeg bruker ikke document.createElement. All dynamisk kode blir generert ved å skrive til innerHTML. Jeg mener det blir enklest. 
 * Jeg bruker string-templates (ES6) for alle tekststrenger som genererer HTML-kode. 
